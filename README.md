@@ -1,5 +1,2 @@
 # cgi-scripts
-# cgi-scripts
-# cgi-scripts
-# cgi-scripts
-# cgi-scripts
+CGi Scripts For Docker File
