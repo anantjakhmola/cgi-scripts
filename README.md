@@ -1,2 +1,2 @@
 # cgi-scripts
-CGi Scripts For Docker File
+CGi Scripts For DockerMan app
